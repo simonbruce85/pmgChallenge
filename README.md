@@ -16,7 +16,7 @@ Use `filename` as the header for the additional column.
 
 Examples:
 
-Given thre input files named `accessories.csv` `clothing.csv` and `accessories.csv`. and an output file `results.csv`
+Given thre input files named `accessories.csv`, `clothing.csv` and `accessories.csv`. and an output file `result.csv`
 
 ```
 $ python3 results.py accessories.csv clothing.csv household_cleaners.csv result.csv
