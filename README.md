@@ -14,9 +14,11 @@ Use `filename` as the header for the additional column.
 
 ## Usage
 
+the user can input many different files to combine, and the last argument must be the name of the output file where all the input files will be combined
+
 Examples:
 
-Given thre input files named `accessories.csv`, `clothing.csv` and `accessories.csv`. and an output file `result.csv`
+Given three input files named `accessories.csv`, `clothing.csv` and `accessories.csv`. and an output file `result.csv`
 
 ```
 $ python3 results.py accessories.csv clothing.csv household_cleaners.csv result.csv
