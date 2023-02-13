@@ -24,7 +24,7 @@ Given three input files named `accessories.csv`, `clothing.csv` and `household_c
 $ python3 results.py accessories.csv clothing.csv household_cleaners.csv result.csv
 ```
 
-Given two input files named `accessories.csv`, `clothing.csv`  and an output file `result.csv`
+Given two input files named `accessories.csv` and `clothing.csv`  and an output file `result.csv`
 
 ```
 $ python3 results.py accessories.csv clothing.csv result.csv
