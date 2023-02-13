@@ -18,7 +18,7 @@ the user can input many different files to combine, and the last argument must b
 
 Examples:
 
-Given three input files named `accessories.csv`, `clothing.csv` and `accessories.csv`. and an output file `result.csv`
+Given three input files named `accessories.csv`, `clothing.csv` and `household_cleaner.csv`. and an output file `result.csv`
 
 ```
 $ python3 results.py accessories.csv clothing.csv household_cleaners.csv result.csv
